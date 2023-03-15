@@ -50,5 +50,7 @@ https://solscan.io/tx/4daPVYRrTLqq7y7SJWo5CBb54ux1ZXHnkGAvcvfS5MzTZFeH4SYC5rFfmK
 
 ## Follow Us on Twitter
 https://twitter.com/MeltingHomeGame
+
 https://twitter.com/LexUnity
+
 https://twitter.com/BlockAlc
