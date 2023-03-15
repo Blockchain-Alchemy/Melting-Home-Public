@@ -1,5 +1,5 @@
 ![melingheader](https://user-images.githubusercontent.com/2120817/225206859-0a187712-cb60-4513-a08f-77d6d223fbaf.png)
-# Melting Home
+# Melting Home [![](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
 
 ## Summary
 
@@ -36,3 +36,6 @@ We are dedicated to saving animals that will be affected by climate change. We a
 2023 - September [Back to School] - We'll be launching online competitions and educational events with educational institutions. 
 
 More coming soon...
+
+## Open Source
+Melting Home is Open Source under MIT Liscense. 
