@@ -2,12 +2,12 @@
 # Melting Home [![](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
 
 ## Summary
+![Screen-Shot-2023-03-14-at-11 46 30-PM](https://user-images.githubusercontent.com/2120817/225229940-37bdd84b-4ec8-4859-9539-6a55a34a931a.png)
+Melting Home is a game on the Solana Blockchain. Melting Snow is a bummer for snowboarders. It's fully tragic for the animals that live in it! In Melting Home, you're a snowboarding penguin, making a real world impact with every ride.
 
-Melting Home is a WebGL Blockchain game on the Solana Blockchain. It combines Extreme Snowboarding and Climate Impact. Before each ride - the player is able to donate Solana tokens (SOL) to climate change charities of their choice. 
 
 ## Playable Demo
-[![melting-home3](https://user-images.githubusercontent.com/2120817/225227177-d7e07086-ff90-485a-99e9-775cf76fc99f.png)
-](https://vibeout.netlify.app/)
+[![melting-home3](https://user-images.githubusercontent.com/2120817/225228012-79a01685-9843-44bd-b979-9d81b97117e6.png)](https://vibeout.netlify.app/)
 
 ## Game Trailer
 [Watch Trailer](https://youtu.be/yphKroX4CLo)
