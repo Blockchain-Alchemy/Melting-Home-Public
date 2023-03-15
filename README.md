@@ -5,6 +5,16 @@
 
 Melting Home is a WebGL Blockchain game on the Solana Blockchain. It combines Extreme Snowboarding and Climate Impact. Before each ride - the player is able to donate Solana tokens (SOL) to climate change charities of their choice. 
 
+## Playable Demo
+[Play Here ](https://vibeout.netlify.app/)
+
+## Impact
+Melting Home works on the concept of reciprocity. It's a free game that's very fun and compelling. It encourages players to contribute to charities that fight climate change, through a leaderboard that multiplies your score by your donation. 
+
+
+## Culture and Business Model
+The Melting Home culture centers around extreme sports, cute animals and allows our members to trade custom snowboards as NFTs and compete for exlusive prizes. By combining social impact, snowboard games and NFTs - we provide a unique niche in culture and gaming.
+
 ## Blockchain Mechanics
 
 ### Token Donation
